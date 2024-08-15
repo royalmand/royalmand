@@ -17,6 +17,15 @@ Backend:
 Other Tools:
 <p align="left"> <img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/></p>
 
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=algolia&layout=compact" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
+</p>
 <!---
 royalmand/royalmand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
