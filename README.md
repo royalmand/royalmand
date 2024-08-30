@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 I’m currently learning:
-- **Python, HTML, CSS and JS**
+- **JS, Tailwinds & React**
 
 ### 📫 How to reach me:
 - **royalmandd@gmail.com**
