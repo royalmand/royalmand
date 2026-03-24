@@ -23,8 +23,10 @@ Frontend:
 </p>
 
 Backend & Runtime:
+Backend & Runtime:
 <p align="left">
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Solana-%239945FF?style=flat&logo=solana&logoColor=white" alt="Solana"/>
 </p>
 
